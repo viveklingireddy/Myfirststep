@@ -5,9 +5,19 @@ const careers = ["YouTuber", "Web Developer", "Freelancer", "Instructor"];
 let careerIndex = 0;
 fliqhfebjbqve kbnvklhqgiv
 let characterIndex = 0;
-
+89 
+c02cf4425855559c9aa63b01ef32c141e5dce28f
 updateText();lfqknewjfkecnwklbfewcjhb
 dwugkskwefdcghfsc,
+
+sanjeev.java
+kiran .py
+animation.py
+
+
+
+
+
 function updateText() {
   characterIndex++;
   containerEl.innerHTML = `
